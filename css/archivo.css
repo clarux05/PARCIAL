@@ -6,3 +6,8 @@ body{
     background-attachment: fixed;
     color: white;
 }
+
+header{
+    text-align: center;
+    padding: 2rem;
+}
