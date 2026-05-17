@@ -24,7 +24,6 @@ nav ul{
     gap: 2rem;
     list-style: none;
     padding: 0;
-    color: white;
 }
 
 nav a{
@@ -59,6 +58,7 @@ section{
     margin-bottom: 4rem;
     line-height: 1.6;
     padding: 1rem;
+    color: white;
 }
 
 img{
