@@ -11,3 +11,57 @@ header{
     text-align: center;
     padding: 2rem;
 }
+
+nav{
+    background-color: rgba(0, 0, 0, 7);
+    padding: 1rem;
+}
+
+nav ul{
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    list-style: none;
+    padding: 0;
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+    padding: 1rem;
+    background-color: black;
+    border-radius: 0.5rem;
+    transition: 0.3s;
+}
+
+nav a:hover{
+    background-color: gray;
+    color: black;
+}
+
+main{
+    max-width: 1200px;
+    margin: auto;
+    padding: 2rem;
+    background-color: rgba(0, 0, 0, 7);
+}
+
+section{
+    margin-bottom: 3rem;
+}
+
+img{
+    width: 100%;
+    max-width: 500px;
+    border-radius: 1rem;
+}
+
+iframe{
+    width: 100%;
+    max-width: 700px;
+}
+
+footer{
+    text-align: center;
+    padding: 1rem;
+}
