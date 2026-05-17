@@ -101,6 +101,7 @@ p{
 
 h1, h2{
     text-shadow: 0 0 10px rgba(white);
+    color: white;
 }
 
 h1{
@@ -112,5 +113,5 @@ h2{
 }
 
 .mail{
-    color: red;
+    color: blue;
 }
