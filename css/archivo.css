@@ -24,6 +24,7 @@ nav ul{
     gap: 2rem;
     list-style: none;
     padding: 0;
+    color: white;
 }
 
 nav a{
